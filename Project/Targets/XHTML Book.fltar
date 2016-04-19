@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="HTML"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  ConditionTagExpression="include[General.XHTML] exclude[General.Online or General.PDF] "
+  DisableAutoSync="true">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+</CatapultTarget>
