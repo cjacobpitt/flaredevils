@@ -7,7 +7,7 @@
   GlossaryTermConversion="marked"
   MasterToc="/Project/TOCs/User Guide.fltoc"
   ConditionTagExpression="include[General.PDF] exclude[General.Online or General.XHTML] "
-  PatchHeadingLevels="true"
+  PatchHeadingLevels="false"
   InjectEmptyPages="true">
   <PrintedOutput
     CollapseMargins="true"

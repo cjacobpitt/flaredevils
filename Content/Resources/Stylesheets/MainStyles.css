@@ -25,17 +25,17 @@ a.MCBreadcrumbsLink:hover
 
 Div.GlossaryPageDefinition
 {
-
+	
 }
 
 Div.GlossaryPageHeading
 {
-
+	
 }
 
 Div.GlossaryPageTerm
 {
-
+	
 }
 
 div.TopicContent
@@ -52,6 +52,7 @@ h1
 	margin-bottom: 8px;
 	margin-top: 20px;
 	padding-bottom: 10px;
+	color: #000000;
 }
 
 h2
@@ -88,17 +89,17 @@ MadCap|breadcrumbsProxy
 
 MadCap|glossaryProxy
 {
-
+	
 }
 
 MadCap|indexProxy
 {
-
+	
 }
 
 MadCap|tocProxy
 {
-
+	
 }
 
 MadCap|xref
@@ -153,9 +154,9 @@ p.ManualVersionNumber
 div.sideContent
 {
 	float: right;
-    margin-left: 10px;
+	margin-left: 10px;
 	margin-bottom: 10px;
-    width: 33.33%;
+	width: 33.33%;
 }
 
 html.templateTopic div.sideContent
@@ -198,8 +199,6 @@ html.templateTopic div.sideContent
 	{
 		background-color: transparent;
 		border-bottom: none;
-		color: #bed230;
-		font-family: 'Century Gothic';
 		font-size: 22pt;
 		line-height: 24pt;
 		margin-bottom: 20px;
@@ -207,6 +206,8 @@ html.templateTopic div.sideContent
 		margin-right: 0;
 		margin-top: 0;
 		padding: 0;
+		font-family: Magneto;
+		color: #ffffff;
 	}
 
 	h2
@@ -218,9 +219,9 @@ html.templateTopic div.sideContent
 
 	h3
 	{
-		font-size: 10pt;
-		font-weight: normal;
 		mc-heading-level: 0;
+		font-size: 18pt;
+		font-weight: bold;
 	}
 
 	h4
@@ -248,7 +249,8 @@ html.templateTopic div.sideContent
 
 	p
 	{
-		font-size: 8pt;
+		font-size: 12pt;
+		line-height: 110%;
 	}
 
 	p.EmptyPageText
@@ -316,4 +318,38 @@ html.templateTopic div.sideContent
 		margin-top: 2px;
 	}
 
+	div.topicheader
+	{
+		background-color: #3333cc;
+		border-radius: 6px;
+		padding-left: 6;
+		padding-right: 6;
+		padding-top: 12;
+		padding-bottom: 12;
+		color: #ffffff;
+	}
+
+	li
+	{
+		font-size: 12;
+		padding-bottom: 6px;
+		line-height: 110%;
+	}
+
+	MadCap|variable.pag
+	{
+		color: #990000;
+		font: Magneto;
+	}
 }
+
+div.topicheader
+{
+	
+}
+
+MadCap|variable.pag
+{
+	
+}
+

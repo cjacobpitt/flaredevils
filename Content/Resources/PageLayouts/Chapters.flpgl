@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <PageStyles>
     <Page Name="Left" Width="7in" Height="9in" Padding="20px" PageSize="Letter" PageType="left" PaddingLeft="1in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in" Orientation="portrait" BleedLeft="0.25in" BleedRight="0.25in" BleedTop="0.25in" BleedBottom="0.25in">
         <Frame Flow="body" ColumnCount="1" Anchors="Left,Right,Top,Bottom" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="0in" Y="0in" Right="0in" Bottom="0in" Width="624px" Height="864px">
@@ -9,7 +9,29 @@
                     <xhtml:head>
                     </xhtml:head>
                     <xhtml:body>
-                        <xhtml:p xhtml:class="FrameFooterText" xhtml:style="text-align: center;"><MadCap:variable xhtml:name="System.PageNumber" />
+                        <xhtml:p xhtml:class="FrameFooterText" xhtml:style="text-align: center;"><MadCap:variable xhtml:name="System.PageNumber" xhtml:class="pag" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="-96px" Y="-103px" Width="815px" Height="94px" Flow="header" Right="-95px" Bottom="873px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p>
+                            <xhtml:img xhtml:src="../Images/stripes.png" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xhtml:style="width: 8.5in;height: 1in;" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="-96px" Y="856px" Width="815px" Height="95px" Flow="decoration0" Right="-95px" Bottom="-87px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p>
+                            <xhtml:img xhtml:src="../Images/bluestripes.png" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xhtml:style="width: 8.5in;height: 1in;" />
                         </xhtml:p>
                     </xhtml:body>
                 </xhtml:html>
@@ -25,7 +47,29 @@
                     <xhtml:head>
                     </xhtml:head>
                     <xhtml:body>
-                        <xhtml:p xhtml:class="FrameFooterText" xhtml:style="text-align: center;"><MadCap:variable xhtml:name="System.PageNumber" />
+                        <xhtml:p xhtml:class="FrameFooterText" xhtml:style="text-align: center;"><MadCap:variable xhtml:name="System.PageNumber" xhtml:class="pag" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="-95px" Y="-103px" Width="814px" Height="94px" Flow="header" Right="-95px" Bottom="873px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p>
+                            <xhtml:img xhtml:src="../Images/flippedstripes.png" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xhtml:style="width: 8.5in;height: 1in;" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="-96px" Y="856px" Width="815px" Height="94px" Flow="decoration0" Right="-95px" Bottom="-86px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p>
+                            <xhtml:img xhtml:src="../Images/flippedblue.png" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xhtml:style="width: 8.5in;height: 1in;" />
                         </xhtml:p>
                     </xhtml:body>
                 </xhtml:html>
@@ -61,7 +105,7 @@
                 </xhtml:html>
             </Content>
         </Frame>
-        <Frame X="161px" Y="402px" Width="302px" Height="61px" Flow="decoration" Right="161px" Bottom="401px" Anchors="Left,Right,Top,Bottom">
+        <Frame X="161px" Y="402px" Width="302px" Height="61px" Flow="decoration0" Right="161px" Bottom="401px" Anchors="Left,Right,Top,Bottom">
             <Content>
                 <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
                     <xhtml:body>
