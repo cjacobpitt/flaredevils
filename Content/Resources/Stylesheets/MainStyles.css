@@ -99,7 +99,8 @@ MadCap|indexProxy
 
 MadCap|tocProxy
 {
-	
+	background-image: url('../Images/Chapter_Heading.png');
+	background-size: 100%;
 }
 
 MadCap|xref
@@ -345,11 +346,17 @@ html.templateTopic div.sideContent
 
 div.topicheader
 {
-	
+	border: 2px solid;
 }
 
 MadCap|variable.pag
 {
 	
+}
+
+div.callout
+{
+	border: 2px solid #3333cc;
+	color: #ed1c24;
 }
 

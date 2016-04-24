@@ -28,8 +28,7 @@
     SectionNumberReset="continue"
     StartPageLayout="false"
     StartSection="false"
-    AutoEndOnLeftPage="enabled"
-    PageType="firstright">
+    AutoEndOnLeftPage="enabled">
     <TocEntry
       Title="Section1"
       Link="/Content/B_Feature Topics/WhatIsATopic.htm"
@@ -41,19 +40,22 @@
       ChapterNumberReset="continue"
       ComputeToc="false"
       ReplaceMergeNode="false"
-      AutoEndOnLeftPage="disabled" />
+      AutoEndOnLeftPage="disabled"
+      PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl" />
     <TocEntry
       Title="Section2"
       Link="/Content/B_Feature Topics/SettingTopicProperties.htm"
       BreakType="pageLayout"
       StartSection="false"
       PageNumberReset="continue"
-      AutoEndOnLeftPage="disabled" />
+      AutoEndOnLeftPage="disabled"
+      PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl" />
     <TocEntry
       Title="Section3"
       Link="/Content/B_Feature Topics/WorkingWithStyles.htm"
       BreakType="pageLayout"
       AutoEndOnLeftPage="disabled"
-      StartSection="false" />
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl" />
   </TocEntry>
 </CatapultToc>

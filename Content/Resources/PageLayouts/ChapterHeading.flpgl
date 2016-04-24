@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Name="First" Width="800" Height="800" Padding="20px" PageSize="Letter" PageType="first" PaddingLeft="1.5in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in">
+        <Frame Flow="body" ColumnCount="1" Anchors="" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="0in" Y="0px" Right="0in" Bottom="0in" Width="6in" Height="9in">
+        </Frame>
+        <Frame X="-144px" Y="-96px" Width="8.5in" Height="11in" Flow="decoration0" Right="-96px" Bottom="-96px" BackgroundImage="../Images/Chapter_Heading.png" BackgroundRepeat="stretch" Anchors="" />
+        <Frame X="215px" Y="-31px" Width="110px" Height="145px" Flow="header" Right="251px" Bottom="750px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p><MadCap:variable xhtml:name="System.ChapterNumber" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+</PageStyles>
