@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="true"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2016-04-23T13:28:42.7060617-04:00"
+  ProjectName="flare_devils1"
+  ProjectFolder="C:\Users\computer\Desktop\Eng 381\Assignment 4__Learning MadCap Flare\Flare Project\flare_devils1\"
+  AutoSync="false"
+  AutoFitTables="false"
+  UseHeaderRows="false"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2016-04-23T13:31:18.0350091-04:00">
+  <Files>
+    <Url
+      Source="../../../../Flare Modules/CreatingANewTopic.docx"
+      AbsoluteSource="file:///C:/Users/computer/Desktop/Eng 381/Assignment 4__Learning MadCap Flare/Flare Modules/CreatingANewTopic.docx" />
+    <Url
+      Source="../../../../Flare Modules/EditingTopicContent.docx"
+      AbsoluteSource="file:///C:/Users/computer/Desktop/Eng 381/Assignment 4__Learning MadCap Flare/Flare Modules/EditingTopicContent.docx" />
+    <Url
+      Source="../../../../Flare Modules/ImportingWordDocuments.docx"
+      AbsoluteSource="file:///C:/Users/computer/Desktop/Eng 381/Assignment 4__Learning MadCap Flare/Flare Modules/ImportingWordDocuments.docx" />
+    <Url
+      Source="../../../../Flare Modules/WhatIsAVariable.docx"
+      AbsoluteSource="file:///C:/Users/computer/Desktop/Eng 381/Assignment 4__Learning MadCap Flare/Flare Modules/WhatIsAVariable.docx" />
+    <Url
+      Source="../../../../Flare Modules/CreatingAVariable.docx"
+      AbsoluteSource="file:///C:/Users/computer/Desktop/Eng 381/Assignment 4__Learning MadCap Flare/Flare Modules/CreatingAVariable.docx" />
+    <Url
+      Source="../../../../Flare Modules/InsertingAVariable.docx"
+      AbsoluteSource="file:///C:/Users/computer/Desktop/Eng 381/Assignment 4__Learning MadCap Flare/Flare Modules/InsertingAVariable.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/CreatingANewTopic1/Creating a New Topic.htm"
+      TimeStamp="4/23/2016 1:30:42 PM" />
+    <Url
+      Source="../../Content/CreatingANewTopic1/Editing Topic Content.htm"
+      TimeStamp="4/23/2016 1:30:42 PM" />
+    <Url
+      Source="../../Content/CreatingANewTopic1/Importing MS Word files into.htm"
+      TimeStamp="4/23/2016 1:30:42 PM" />
+    <Url
+      Source="../../Content/CreatingANewTopic1/What is a Variable.htm"
+      TimeStamp="4/23/2016 1:30:43 PM" />
+    <Url
+      Source="../../Content/CreatingANewTopic1/Creating a Variable.htm"
+      TimeStamp="4/23/2016 1:30:43 PM" />
+    <Url
+      Source="../../Content/CreatingANewTopic1/Inserting a Variable.htm"
+      TimeStamp="4/23/2016 1:30:43 PM" />
+    <Url
+      Source="../TOCs/CreatingANewTopic1.fltoc"
+      TimeStamp="4/23/2016 1:30:42 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles_2.css"
+      TimeStamp="4/23/2016 1:30:42 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles />
+  <UsedParagraphStyles>
+    <StyleName
+      Name="List Paragraph" />
+    <StyleName
+      Name="Normal (Web)" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles />
+</MsWordImport>
